@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\project\\game_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\Plane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|solutionrelative:\u7B2C\u4E00\u7AE0\\Plane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\Plane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|solutionrelative:\u7B2C\u4E00\u7AE0\\Plane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\JumpBall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|solutionrelative:\u7B2C\u4E00\u7AE0\\JumpBall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\JumpBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|solutionrelative:\u7B2C\u4E00\u7AE0\\JumpBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|D:\\C\u002B\u002B\\project\\game_test\\game_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|solutionrelative:game_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.18362.0\\UM\\WINNT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190837D4-E569-4C85-A551-C825A164E55D}|game_test.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.18362.0\\UM\\ERRHANDLINGAPI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 287,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{32a6260a-0121-4878-95e5-80d2f08ea4cb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "errhandlingapi.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\\errhandlingapi.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\\errhandlingapi.h",
+              "ViewState": "AQIAALYAAAAAAAAAAAAvwNoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T13:10:51.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JumpBall.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\JumpBall.h",
+              "RelativeDocumentMoniker": "\u7B2C\u4E00\u7AE0\\JumpBall.h",
+              "ToolTip": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\JumpBall.h",
+              "RelativeToolTip": "\u7B2C\u4E00\u7AE0\\JumpBall.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T13:09:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JumpBall.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\JumpBall.cpp",
+              "RelativeDocumentMoniker": "\u7B2C\u4E00\u7AE0\\JumpBall.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\JumpBall.cpp",
+              "RelativeToolTip": "\u7B2C\u4E00\u7AE0\\JumpBall.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T13:09:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "winnt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\\winnt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um\\winnt.h",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAvwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T13:09:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\Plane.h",
+              "RelativeDocumentMoniker": "\u7B2C\u4E00\u7AE0\\Plane.h",
+              "ToolTip": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\Plane.h",
+              "RelativeToolTip": "\u7B2C\u4E00\u7AE0\\Plane.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T12:55:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plane.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\Plane.cpp",
+              "RelativeDocumentMoniker": "\u7B2C\u4E00\u7AE0\\Plane.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\project\\game_test\\\u7B2C\u4E00\u7AE0\\Plane.cpp",
+              "RelativeToolTip": "\u7B2C\u4E00\u7AE0\\Plane.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAGAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T12:54:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game_test.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\project\\game_test\\game_test.cpp",
+              "RelativeDocumentMoniker": "game_test.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\project\\game_test\\game_test.cpp",
+              "RelativeToolTip": "game_test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T12:25:57.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
